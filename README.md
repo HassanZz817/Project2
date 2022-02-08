@@ -7,3 +7,4 @@ I used two  Resources in this project
 I used it for the backgorund patterns
 2- https://www.shapedivider.app/
 for the wave style that cuts the background image
+
